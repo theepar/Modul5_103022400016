@@ -1,54 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Modul5_103022400016\\",
-<<<<<<< HEAD
-  "Documents": [],
-=======
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|d:\\modul5_103022400016\\modul5_103022400016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|solutionrelative:modul5_103022400016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|d:\\modul5_103022400016\\modul5_103022400016\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|solutionrelative:modul5_103022400016\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|d:\\modul5_103022400016\\modul5_103022400016\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|solutionrelative:modul5_103022400016\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
->>>>>>> implementasi-generic-method
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
-      "DocumentGroups": []
-=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "SimpleDataBase.cs",
+              "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\SimpleDataBase.cs",
+              "RelativeDocumentMoniker": "Modul5_103022400016\\SimpleDataBase.cs",
+              "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\SimpleDataBase.cs",
+              "RelativeToolTip": "Modul5_103022400016\\SimpleDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:59:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PemrosesData.cs",
               "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\PemrosesData.cs",
               "RelativeDocumentMoniker": "Modul5_103022400016\\PemrosesData.cs",
               "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\PemrosesData.cs",
               "RelativeToolTip": "Modul5_103022400016\\PemrosesData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:58:07.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
               "RelativeDocumentMoniker": "Modul5_103022400016\\Program.cs",
               "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
               "RelativeToolTip": "Modul5_103022400016\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
->>>>>>> implementasi-generic-class
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T23:50:28.855Z",
+              "WhenOpened": "2026-03-31T00:58:08.105Z",
               "EditorCaption": ""
             }
           ]
         }
       ]
->>>>>>> implementasi-generic-method
     }
   ]
 }
