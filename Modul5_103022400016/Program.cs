@@ -1,27 +1,12 @@
-﻿using System;
+﻿using Modul5_103022400016;
+using System;
 
-namespace PemrosesData
+public class Program
 {
-    public class PemrosesData
-    {
-        public T DapatkanNilaiTerbesar<T>(T x, T y, T z)
-        {
-
-            dynamic a = x;
-            dynamic b = y;
-            dynamic c = z;
-            dynamic temp = a;
-
-            if (temp < b)
-            {
-                temp = b;
-            }
-            if (temp < c)
-            {
-                temp = c;
-            }
-            return temp;
-        }
-    }
-    
+	public static void Main(string[] args)
+	{
+		PemrosesData data = new PemrosesData();
+		int nilai = data.DapatkanNilaiTerbesar<int>(10, 03, 02);
+		Console.WriteLine("nilai terbesar :" + nilai);
+	}
 }
