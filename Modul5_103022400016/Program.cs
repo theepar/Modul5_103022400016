@@ -2,5 +2,8 @@
 
 namespace PemrosesData
 {
-    public 
+    public void DapatkanNilaiTerbesar()
+    {
+
+    }
 }
