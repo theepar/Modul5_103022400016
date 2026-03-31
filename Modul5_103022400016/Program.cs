@@ -1,7 +1,6 @@
 ﻿using Modul5_103022400016;
 using System;
 
-<<<<<<< HEAD
 public class Program
 {
 	public static void Main(string[] args)

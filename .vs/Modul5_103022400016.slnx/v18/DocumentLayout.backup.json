@@ -1,21 +1,23 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Modul5_103022400016\\",
+<<<<<<< HEAD
+  "Documents": [],
+=======
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|d:\\modul5_103022400016\\modul5_103022400016\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|solutionrelative:modul5_103022400016\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|d:\\modul5_103022400016\\modul5_103022400016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2F4B1E0-E2CC-2899-7793-B2FE42DF18F6}|Modul5_103022400016\\Modul5_103022400016.csproj|solutionrelative:modul5_103022400016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> implementasi-generic-class
     }
   ],
+>>>>>>> implementasi-generic-method
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -25,22 +27,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
 <<<<<<< HEAD
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
-              "RelativeDocumentMoniker": "Modul5_103022400016\\Program.cs",
-              "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
-              "RelativeToolTip": "Modul5_103022400016\\Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-=======
               "Title": "PemrosesData.cs",
               "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\PemrosesData.cs",
               "RelativeDocumentMoniker": "Modul5_103022400016\\PemrosesData.cs",
               "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\PemrosesData.cs",
               "RelativeToolTip": "Modul5_103022400016\\PemrosesData.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
->>>>>>> implementasi-generic-method
 =======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
+              "RelativeDocumentMoniker": "Modul5_103022400016\\Program.cs",
+              "ToolTip": "D:\\Modul5_103022400016\\Modul5_103022400016\\Program.cs",
+              "RelativeToolTip": "Modul5_103022400016\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
 >>>>>>> implementasi-generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,6 +48,7 @@
           ]
         }
       ]
+>>>>>>> implementasi-generic-method
     }
   ]
 }
