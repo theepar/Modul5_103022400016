@@ -1,24 +1,18 @@
 ﻿using System;
 
-namespace PemrosesData
+namespace Modul5_103022400016
 {
-    public class PemrosesData
-    { 
-        public T DapatkanNilaiTerbesar<T>(T x,T y,T z)
+    public class Program
+    {
+        public static void Main(string[] args)
         {
-            dynamic a = x;
-            dynamic b = y;
-            dynamic c = z;
-            dynamic temp = a;
+            SimpleDataBase<int> db = new SimpleDataBase<int>();
+            db.AddNewData(12);
+            db.AddNewData(34);
+            db.AddNewData(54);
 
-            if (temp < b)
-            {
-                temp = b;
-            }
-            if (temp > c) {
-                temp = c;
-            }
-            return temp;
+            db.printData();
+
         }
-     }
+    }
 }
