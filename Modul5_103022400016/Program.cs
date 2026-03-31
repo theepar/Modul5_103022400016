@@ -6,7 +6,6 @@ namespace PemrosesData
     {
         public T DapatkanNilaiTerbesar<T>(T x, T y, T z)
         {
-
             dynamic a = x;
             dynamic b = y;
             dynamic c = z;
@@ -16,7 +15,7 @@ namespace PemrosesData
             {
                 temp = b;
             }
-            if (temp < c)
+            if (temp > c)
             {
                 temp = c;
             }
