@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.exe
 D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.deps.json
 D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.runtimeconfig.json
 D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.dll
 D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.pdb
+=======
+>>>>>>> implementasi-generic-class
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.GeneratedMSBuildEditorConfig.editorconfig
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.AssemblyInfoInputs.cache
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.AssemblyInfo.cs
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.csproj.CoreCompileInputs.cache
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.sourcelink.json
+<<<<<<< HEAD
+=======
+D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.exe
+D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.deps.json
+D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.runtimeconfig.json
+D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.dll
+D:\Modul5_103022400016\Modul5_103022400016\bin\Debug\net10.0\Modul5_103022400016.pdb
+>>>>>>> implementasi-generic-class
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.dll
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\refint\Modul5_103022400016.dll
 D:\Modul5_103022400016\Modul5_103022400016\obj\Debug\net10.0\Modul5_103022400016.pdb
