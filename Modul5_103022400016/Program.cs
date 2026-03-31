@@ -1,10 +1,13 @@
-﻿using System;
+﻿using Modul5_103022400016;
+using System;
 
-namespace PemrosesData
+public class Program
 {
-    public class PemrosesData
-    { 
-        
-    }
-    
+	public static void Main(string[] args)
+	{
+		PemrosesData data = new PemrosesData();
+		int nilai = data.DapatkanNilaiTerbesar<int>(10, 03, 02);
+		Console.WriteLine("nilai terbesar :" + nilai);
+	}
 }
+
